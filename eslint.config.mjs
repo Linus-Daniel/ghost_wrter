@@ -14,3 +14,8 @@ const eslintConfig = [
 ];
 
 export default eslintConfig;
+eslintConfig.push({
+  rules: {
+    "react/no-unescaped-entities": "off",
+  },
+});

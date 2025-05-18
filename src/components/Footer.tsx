@@ -1,6 +1,4 @@
 "use client"
-import { motion } from 'framer-motion';
-import Link from 'next/link';
 import { GiSpellBook } from 'react-icons/gi';
 const Footer = () => {
     return (

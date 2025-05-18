@@ -4,8 +4,6 @@ import Portfolio from '@/components/PortFolio';
 import Testimonials from '@/components/Testimonial';
 import Contact from '@/components/Contact';
 import Navbar from '@/components/NavBar';
-import PortalPreview from '@/components/WritingSample';
-import Comparison from '@/components/Comparison';
 import Footer from '@/components/Footer';
 import PricingSection from '@/components/Pricing';
 import About from '@/components/About';
@@ -18,7 +16,6 @@ export default function Home() {
       <Services />
       <Portfolio />
       <PricingSection />
-      <Comparison />
       <Testimonials />
       <About />
       <Contact />
